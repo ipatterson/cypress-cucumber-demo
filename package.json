@@ -1,0 +1,15 @@
+{
+  "name": "cypress",
+  "version": "7.1.0",
+  "description": "Cypress.io end to end testing tool",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cypress-io/cypress.git"
+  },
+  "dependencies": {
+    "cypress": "^7.1.0"
+  },
+  "devDependencies": {
+    "@cucumber/cucumber": "^7.2.1"
+  }
+}

@@ -1,0 +1,5 @@
+#Ignore dependency packages
+node_modules/
+
+#Ignore Mac System Files
+**/.DS_Store
