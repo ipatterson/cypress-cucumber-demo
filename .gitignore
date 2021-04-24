@@ -3,3 +3,9 @@ node_modules/
 
 #Ignore Mac System Files
 **/.DS_Store
+
+#Ignore Cypress defaults and test data
+cypress/integration/examples
+cypress/screenshots
+cypress/videos
+**/example.json
