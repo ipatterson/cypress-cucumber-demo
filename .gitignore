@@ -5,7 +5,7 @@ node_modules/
 **/.DS_Store
 
 #Ignore Cypress defaults and test data
-cypress/integration/examples
-cypress/screenshots
-cypress/videos
+**/integration/examples
+**/screenshots
+**/videos
 **/example.json
